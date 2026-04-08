@@ -2,7 +2,7 @@
 
 Traditional file storage lacks built-in security, allowing unauthorized access to sensitive data. CipherVault addresses this issue by providing a secure file locker with password-based encryption and user authentication.
 
-Key Features:
+## Key Features:
 -User Authentication
 -File Encryption (Fernet/AES)
 -File Decryption
@@ -10,3 +10,12 @@ Key Features:
 -Password-Based Key Derivation (PBKDF2)
 -Data Integrity Protection
 -Lightweight Streamlit Interface
+
+
+## Technologies
+-Python
+-Streamlit
+-Cryptography (Fernet, PBKDF2)
+
+## Author
+Daniyal Hussain
